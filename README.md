@@ -32,7 +32,7 @@ The tools used here are the following:
 1. Used multiple tools as listed above to harden the Windows system (refer to written report for full details).
 2. Enabled auditing for Windows 10 via command line tool auditpol or Local Group Policy Editor (gpedit.msc) to edit audit policies.
 3. Forwarded it to Splunk by using the Splunk Universal Forwarder.
-4. Ran a search in Splunk to show data was successfully forwarded.
+4. Ran a search in Splunk to show data was successfully forwarded (see references for output).
 
 <h2 id="#Learning-Outcomes">Learning Outcomes</h2>
 
