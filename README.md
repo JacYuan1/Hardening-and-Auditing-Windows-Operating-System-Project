@@ -43,4 +43,4 @@ The tools used here are the following:
 ## References
 
 1. [Written report linked here](https://github.com/JacYuan1/Hardening-and-Auditing-Windows-Operating-System-Project/blob/main/Written%20Report.pdf)
-2. [Splunk output]()
+2. [Splunk output](https://github.com/JacYuan1/Hardening-and-Auditing-Windows-Operating-System-Project/blob/main/Splunk%20Output.pdf)
